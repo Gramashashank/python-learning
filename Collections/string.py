@@ -91,7 +91,9 @@ istitle=s.istitle()
 print(istitle)
 #----o/p----#
 False
-join=s.join(["Python","is","easy","to","learn"])
+#example18
+s1=""
+join=s1.join(["Python","is","easy","to","learn"])
 print(join)
 #----o/p---#
-"PythonPython isPython easyPython toPython learn"
+"Python is easy to learn"
