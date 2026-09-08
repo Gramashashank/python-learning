@@ -20,11 +20,6 @@ print(_name)
 #---O/P----#
 #---rama----#
 
-NAME="Rama"
-print(NAME)
-#---O/P----#
-#---NameError: name 'name' is not defined---#
-
 age-1=18
 print(age-1)
 #---O/P----#
