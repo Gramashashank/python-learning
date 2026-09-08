@@ -21,7 +21,7 @@ print(_name)
 #---rama----#
 
 NAME="Rama"
-print(name)
+print(NAME)
 #---O/P----#
 #---NameError: name 'name' is not defined---#
 
